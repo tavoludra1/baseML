@@ -9,6 +9,16 @@
     "customizations": {
       "codespaces": {
         "openFiles": []
+    },
+    "vscode": {
+        "extensions": [
+            "mikestead.dotenv",
+            "ms-python.python",
+            "ms-toolsai.jupyter",
+            "GitHub.copilot",
+            "GitHub.copilot-chat",
+            "ms-python.debugpy"
+        ]
     }
     }
 }
